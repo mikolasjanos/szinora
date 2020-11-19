@@ -1,0 +1,2 @@
+# szinora
+változó hátterű óra
